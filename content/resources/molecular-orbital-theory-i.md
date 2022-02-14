@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Molecular Orbital Theory I. Variational Principle and Matrix Mechanics'
 uid: 33bde245-9d5b-18c0-5655-4770b3a6e3df

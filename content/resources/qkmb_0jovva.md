@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/5-61-physical-chemistry-fall-2017/b11d57c2f229e07f5d82e7dc721aac36_QkMB_0jOvVA.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: b11d57c2-f229-e07f-5d82-e7dc721aac36
 ---
