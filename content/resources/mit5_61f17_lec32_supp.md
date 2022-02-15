@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61_F17 Lecture 32 Supplement: Zewail Wavepacket Experiment'
-type: OCWFile
 uid: 8c771caa-ed36-651d-3bd8-885b85fc51f8
 ---

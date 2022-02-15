@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 9: Harmonic Oscillator: Creation and Annihilation Operators'
-type: OCWFile
 uid: ca914a03-1c80-3bf4-7289-76edf1852390
 ---

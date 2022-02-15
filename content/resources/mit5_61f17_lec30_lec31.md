@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61_F17 Lecture 30 and Lecture 31: Electronic Spectroscopy. Franck-Condon.'
-type: OCWFile
 uid: 4b1b2053-b11b-eb98-2944-16779cabceb0
 ---

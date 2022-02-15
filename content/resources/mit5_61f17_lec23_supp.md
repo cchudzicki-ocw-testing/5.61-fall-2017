@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61_F17 Lecture 23 Supplement: Slater Determinantal Matrix Elements'
-type: OCWFile
 uid: a42c6cd4-ce5e-8486-835e-f008fdf88d22
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 7: Classical Mechanical Harmonic Oscillator'
-type: OCWFile
 uid: 422437d3-f17d-ea14-587e-4a8c6ba9a89a
 ---

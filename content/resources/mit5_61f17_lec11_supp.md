@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 11 Supplement: Nonstationary States of Quantum Mechanical
   Harmonic Oscillator '
-type: OCWFile
 uid: 202e82ab-933b-cef7-bbe4-051030e902a1
 ---

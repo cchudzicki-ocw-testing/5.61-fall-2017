@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 13 and Lecture 14: From Hij Integrals to H Matrices'
-type: OCWFile
 uid: ac16fefe-a96c-9cc1-f373-a9cd60db196c
 ---

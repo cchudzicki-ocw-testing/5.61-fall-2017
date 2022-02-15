@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 2 Supplement: Geiger-Marsden Revisted'
-type: OCWFile
 uid: 39506f81-1728-260e-6eb5-cbd07e266fb6
 ---

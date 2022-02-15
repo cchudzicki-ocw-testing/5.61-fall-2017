@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 2: Wave Nature of the Electron and the Internal Structure
   of an Atom'
-type: OCWFile
 uid: 766e4206-593b-21ab-c0a1-680270b88435
 ---

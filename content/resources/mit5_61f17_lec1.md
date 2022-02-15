@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 1: Quantum Mechanics--Historical Background, Photoelectric
   Effect, Compton Scattering'
-type: OCWFile
 uid: f3366d8a-aa0e-6d30-8e13-802fec808362
 ---

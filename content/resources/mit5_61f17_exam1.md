@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 5.61 F17 First Hour Exam
-type: OCWFile
 uid: 9b0210d4-5106-c120-c026-1d4ea45bd008
 ---

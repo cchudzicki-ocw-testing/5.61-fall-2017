@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 24 Supplement: General Eigenvalue Problem for LCAO-MO Expressed
   in Matrix Notation'
-type: OCWFile
 uid: 70bddde5-abe8-e18a-0fda-0395bd0051fa
 ---

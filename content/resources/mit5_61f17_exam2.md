@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 5.61 F17 Second Hour Exam
-type: OCWFile
 uid: de784d32-b097-4c07-62e5-73c238022de7
 ---

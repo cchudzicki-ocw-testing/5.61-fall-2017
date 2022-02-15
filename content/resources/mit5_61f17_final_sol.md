@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 5.61 F17 Final Exam with Solutions
-type: OCWFile
 uid: a4e1b8a3-3bf1-bb3b-75dd-2ecb257dc397
 ---

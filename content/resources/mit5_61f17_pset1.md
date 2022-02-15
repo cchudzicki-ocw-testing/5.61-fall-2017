@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 5.61 F17 Problem Set 1
-type: OCWFile
 uid: 73e7ea5d-4f57-edee-92bc-0c0c4d1fe551
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 5.61 F17 2nd Hour Exam Solutions
-type: OCWFile
 uid: 68a538ad-7eaa-1894-3c3e-5d31edf33294
 ---

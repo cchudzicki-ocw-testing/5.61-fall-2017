@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 5.61 F17 Third Hour Exam Solutions
-type: OCWFile
 uid: e8bfc99e-8ecb-7e31-a93a-52f5abb60855
 ---

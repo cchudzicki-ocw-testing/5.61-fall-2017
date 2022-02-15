@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 8: Quantum Mechanical Harmonic Oscillator'
-type: OCWFile
 uid: 29b4eef1-ae44-a28c-9d2e-506f9170caa6
 ---

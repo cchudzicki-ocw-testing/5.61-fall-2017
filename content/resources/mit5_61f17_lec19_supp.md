@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 19 Supplement: Perturbation Theory: Matrix Notation, Applications
   to Dynamics'
-type: OCWFile
 uid: f5c4710b-0d4a-2fc0-df0f-b9149f0640bb
 ---

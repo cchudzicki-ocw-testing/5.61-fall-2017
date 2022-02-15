@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 5: Begin Quantum Mechanics: Free Particle and Particle in
   a 1D Box'
-type: OCWFile
 uid: 34af3f29-47a8-bd7a-ca9e-5b3745df457b
 ---
