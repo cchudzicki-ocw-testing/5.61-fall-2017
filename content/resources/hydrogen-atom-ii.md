@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Professor Field talks about the hydrogen atom as a model for electronic structure. In particular, he discusses quantum number scaling effects.
 
 **Instructor:** Prof. Robert Field
+

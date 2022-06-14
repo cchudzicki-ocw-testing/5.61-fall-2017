@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the rigid rotor and is a first glimpse at central force problems.
 
 **Instructor:** Prof. Robert Field
+

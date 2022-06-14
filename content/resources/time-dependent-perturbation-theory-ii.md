@@ -29,3 +29,4 @@ video_metadata:
 **Description:** This is the second of two lectures that focuses on spectroscopy and dynamics.
 
 **Instructor:** Prof. Robert Field
+

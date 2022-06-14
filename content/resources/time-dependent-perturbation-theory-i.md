@@ -29,3 +29,4 @@ video_metadata:
 **Description:** This is the first of two lectures on spectroscopy and dynamics.
 
 **Instructor:** Prof. Robert Field
+

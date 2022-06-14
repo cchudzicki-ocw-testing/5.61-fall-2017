@@ -28,3 +28,4 @@ video_metadata:
 **Description**: This lecture covers the two-slit experiment, which demonstrates that light and matter can be defined both as waves and particles. The instructor also explains the uncertainty principle.
 
 **Instructor**: Prof. Robert Field
+

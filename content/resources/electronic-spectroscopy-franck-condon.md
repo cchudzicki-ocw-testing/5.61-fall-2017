@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers intermolecular interactions, electronic spectroscopy, and the Franck-Condon principle.
 
 **Instructor:** Prof. Robert Field
+

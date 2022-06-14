@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture continues the topic of Hij integrals and H matrices.
 
 **Instructor:** Prof. Robert Field
+

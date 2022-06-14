@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers wavepacket dynamics for harmonic oscillator and particle-in-a-box.
 
 **Instructor:** Prof. Robert Field
+

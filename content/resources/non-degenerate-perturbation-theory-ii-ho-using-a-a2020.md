@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture continues exploring non-degenerate perturbation theory.
 
 **Instructor:** Prof. Robert Field
+

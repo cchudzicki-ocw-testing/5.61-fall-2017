@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers information about modern electronic structure theory. Ways of computing the energy and computational chemistry tools are discussed.
 
 **Instructor:** Prof. Troy Van Voorhis
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description**: This lecture covers the wave nature of the electron and the internal structure of an atom.
 
 **Instructor**: Prof. Robert Field
+

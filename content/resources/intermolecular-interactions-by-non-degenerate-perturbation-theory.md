@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture discusses wavepacket dynamics and what to expect and how to approach it.
 
 **Instructor:** Prof. Robert Field
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description**: This lecture covers classical wave equations, the separation of variables, boundary conditions, and the superposition of normal modes: "the pluck."
 
 **Instructor**: Prof. Robert Field
+

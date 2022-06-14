@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture explains how to evaluate matrix elements of many-electron operators, which is key to interpreting the electronic properties of atoms and molecules.
 
 **Instructor:** Prof. Robert Field
+

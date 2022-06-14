@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture continues the discussion of molecular orbital theory and includes information about diatomic molecules.
 
 **Instructor:** Prof. Robert Field
+

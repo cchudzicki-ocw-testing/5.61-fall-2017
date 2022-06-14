@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduces the idea of the non-degenerate perturbation theory.
 
 **Instructor:** Prof. Robert Field
+

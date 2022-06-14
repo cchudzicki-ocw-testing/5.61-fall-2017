@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture continues the discussion of harmonic oscillators and includes information on creation and annihilation operators.
 
 **Instructor:** Prof. Robert Field
+

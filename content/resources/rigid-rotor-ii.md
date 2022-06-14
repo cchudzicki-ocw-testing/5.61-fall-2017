@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the rigid rotor and derivation by commutation rules. Angular momentum is a central theme of this lecture.
 
 **Instructor:** Prof. Robert Field
+

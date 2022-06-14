@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Field talks about the discrete variable representation. He introduces the students to delta-functions.
 
 **Instructor:** Prof. Robert Field
+

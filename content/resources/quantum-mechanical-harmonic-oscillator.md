@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture covers the quantum mechanical treatment of the harmonic oscillator.
 
 **Instructor:** Prof. Robert Field
+

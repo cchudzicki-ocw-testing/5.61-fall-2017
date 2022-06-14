@@ -28,3 +28,4 @@ video_metadata:
 **Description:** The lecture discusses what we can learn about molecules by looking at the hydrogen atom.
 
 **Instructor:** Prof. Robert Field
+
