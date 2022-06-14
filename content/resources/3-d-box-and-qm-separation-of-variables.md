@@ -34,3 +34,4 @@ video_metadata:
 **Description****:** This lecture covers the concepts of the 3-D box and QM separation of variables.
 
 **Instructor****:** Prof. Robert Field
+
