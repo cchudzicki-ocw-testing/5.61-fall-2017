@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains a list of topics and key dates. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
